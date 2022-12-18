@@ -1,0 +1,13 @@
+body {
+  background-color: yellow;
+}
+#bg-blue,
+p {
+  background-color: red;
+  border: 3px solid black;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
